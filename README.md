@@ -1,4 +1,4 @@
 ### Animated-landing-page-BootStrap
 
-See Project Online: 
+Take a look at the project : 
 https://sage-paprenjak-b81a42.netlify.app/
